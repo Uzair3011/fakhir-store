@@ -67,4 +67,15 @@ const PRODUCTS = [
     sizes: ["M", "L"],
     description: "Deep navy bomber with a subtle snake-pattern jacquard and embossed sleeves. Rubber chest badge, zip pockets and crisp white-striped rib trims.",
   },
+  {
+    id: "ivory-fur-puffer",
+    name: "Ivory Fur-Collar Puffer Bomber",
+    category: "jackets",
+    type: "jacket",
+    image: "images/products/ivory-fur-puffer.webp",
+    price: 5000,
+    colors: [["Ivory / Black", "#ece5d8"]],
+    sizes: ["M", "L"],
+    description: "Ivory quilted puffer bomber with a plush black faux-fur collar, full front zip and zip side pockets. Black ribbed cuffs and hem keep the classic bomber shape.",
+  },
 ];

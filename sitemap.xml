@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://fakhir-store.vercel.app/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/onyx-bomber.webp</image:loc><image:title>Onyx Faux-Leather Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/monochrome-track-bomber.webp</image:loc><image:title>Monochrome Block Track Jacket - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/midnight-panel-bomber.webp</image:loc><image:title>Midnight Panel Varsity Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
@@ -13,37 +13,42 @@
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/products/onyx-bomber/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/onyx-bomber.webp</image:loc><image:title>Onyx Faux-Leather Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/products/monochrome-track-bomber/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/monochrome-track-bomber.webp</image:loc><image:title>Monochrome Block Track Jacket - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/products/midnight-panel-bomber/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/midnight-panel-bomber.webp</image:loc><image:title>Midnight Panel Varsity Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/products/cocoa-pinstripe-bomber/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/cocoa-pinstripe-bomber.webp</image:loc><image:title>Cocoa Pinstripe Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
+    <loc>https://fakhir-store.vercel.app/products/ivory-fur-puffer/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <image:image><image:loc>https://fakhir-store.vercel.app/images/products/ivory-fur-puffer.webp</image:loc><image:title>Ivory Fur-Collar Puffer Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
+  </url>
+  <url>
     <loc>https://fakhir-store.vercel.app/products/copper-python-bomber/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/copper-python-bomber.webp</image:loc><image:title>Copper Python Jacquard Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/products/navy-python-bomber/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/navy-python-bomber.webp</image:loc><image:title>Navy Python Jacquard Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/jackets/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/onyx-bomber.webp</image:loc><image:title>Onyx Faux-Leather Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/monochrome-track-bomber.webp</image:loc><image:title>Monochrome Block Track Jacket - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/midnight-panel-bomber.webp</image:loc><image:title>Midnight Panel Varsity Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
@@ -53,7 +58,7 @@
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/bomber-jackets/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/onyx-bomber.webp</image:loc><image:title>Onyx Faux-Leather Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/monochrome-track-bomber.webp</image:loc><image:title>Monochrome Block Track Jacket - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/midnight-panel-bomber.webp</image:loc><image:title>Midnight Panel Varsity Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
@@ -63,12 +68,12 @@
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/varsity-jackets/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/midnight-panel-bomber.webp</image:loc><image:title>Midnight Panel Varsity Bomber - men's jacket in Lahore, Rs 3,000</image:title></image:image>
     <image:image><image:loc>https://fakhir-store.vercel.app/images/products/monochrome-track-bomber.webp</image:loc><image:title>Monochrome Block Track Jacket - men's jacket in Lahore, Rs 3,000</image:title></image:image>
   </url>
   <url>
     <loc>https://fakhir-store.vercel.app/faq/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
 </urlset>
