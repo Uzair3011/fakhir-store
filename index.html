@@ -27,6 +27,8 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
+    "@graph": [
+    {
     "@type": "ClothingStore",
     "@id": "https://fakhir-store.vercel.app/#store",
     "name": "Fakhir Outwears",
@@ -47,74 +49,8 @@
       "name": "Lahore",
       "sameAs": "https://en.wikipedia.org/wiki/Lahore"
     },
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": "+92-323-4123244",
-      "contactType": "sales",
-      "areaServed": "PK",
-      "availableLanguage": ["en", "ur"]
-    }
-  }
-  </script>
-  <!-- generated:structured-data -->
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Fakhir Outwears bomber jackets in Lahore",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "url": "https://fakhir-store.vercel.app/products/onyx-bomber/",
-      "name": "Onyx Faux-Leather Bomber"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "url": "https://fakhir-store.vercel.app/products/monochrome-track-bomber/",
-      "name": "Monochrome Block Track Jacket"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "url": "https://fakhir-store.vercel.app/products/midnight-panel-bomber/",
-      "name": "Midnight Panel Varsity Bomber"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "url": "https://fakhir-store.vercel.app/products/cocoa-pinstripe-bomber/",
-      "name": "Cocoa Pinstripe Bomber"
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "url": "https://fakhir-store.vercel.app/products/copper-python-bomber/",
-      "name": "Copper Python Jacquard Bomber"
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
-      "url": "https://fakhir-store.vercel.app/products/navy-python-bomber/",
-      "name": "Navy Python Jacquard Bomber"
-    }
-  ]
-}
-  </script>
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ClothingStore",
-  "@id": "https://fakhir-store.vercel.app/#store",
-  "name": "Fakhir Outwears",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": 5,
-    "bestRating": 5,
-    "reviewCount": 5
-  },
-  "review": [
+    "aggregateRating": {"@type": "AggregateRating", "ratingValue": 5, "bestRating": 5, "reviewCount": 5},
+    "review": [
     {
       "@type": "Review",
       "author": {
@@ -180,6 +116,69 @@
       },
       "reviewBody": "Great selection and even better quality. The staff was super helpful in helping me find the right size. Will definitely be buying from here again."
     }
+  ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+92-323-4123244",
+      "contactType": "sales",
+      "areaServed": "PK",
+      "availableLanguage": ["en", "ur"]
+    }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://fakhir-store.vercel.app/#website",
+      "url": "https://fakhir-store.vercel.app/",
+      "name": "Fakhir Outwears",
+      "inLanguage": "en-PK",
+      "publisher": {"@id": "https://fakhir-store.vercel.app/#store"}
+    }
+    ]
+  }
+  </script>
+  <!-- generated:structured-data -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Fakhir Outwears bomber jackets in Lahore",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "url": "https://fakhir-store.vercel.app/products/onyx-bomber/",
+      "name": "Onyx Faux-Leather Bomber"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "url": "https://fakhir-store.vercel.app/products/monochrome-track-bomber/",
+      "name": "Monochrome Block Track Jacket"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "url": "https://fakhir-store.vercel.app/products/midnight-panel-bomber/",
+      "name": "Midnight Panel Varsity Bomber"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "url": "https://fakhir-store.vercel.app/products/cocoa-pinstripe-bomber/",
+      "name": "Cocoa Pinstripe Bomber"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "url": "https://fakhir-store.vercel.app/products/copper-python-bomber/",
+      "name": "Copper Python Jacquard Bomber"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "url": "https://fakhir-store.vercel.app/products/navy-python-bomber/",
+      "name": "Navy Python Jacquard Bomber"
+    }
   ]
 }
   </script>
@@ -205,9 +204,9 @@
         <span class="logo-text"><span class="logo-name">Fakhir</span><span class="logo-tag">Outwears</span></span>
       </a>
       <nav class="main-nav" aria-label="Primary">
-        <a href="#shop" data-nav-category="jackets">Jackets</a>
-        <a href="#shop" data-nav-category="tracksuits">Tracksuits</a>
-        <a href="#shop" data-nav-category="sale">Sale</a>
+        <a href="/jackets/">Jackets</a>
+        <a href="/bomber-jackets/">Bomber jackets</a>
+        <a href="/faq/">FAQ</a>
       </nav>
       <button class="cart-button" id="cart-open" aria-label="Open cart">
         <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 7h12l-1 13H7L6 7Z M9 7a3 3 0 0 1 6 0" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
@@ -348,7 +347,7 @@
       <h2 id="local-title">Bomber jackets in Lahore</h2>
       <div class="local-grid">
         <p>Fakhir Outwears is a Lahore menswear label for bomber, varsity and track jackets. Jackets start at Rs 3,000 and come in sizes M and L, in faux-leather, python jacquard and pinstripe finishes made for Lahore's cold December and January evenings.</p>
-        <p>We deliver across Lahore, including DHA, Gulberg, Johar Town, Model Town, Bahria Town, Wapda Town and Cantt. Pick your jacket, send your order on WhatsApp, and we'll confirm the size, address and delivery with you personally.</p>
+        <p>We deliver across Lahore, including DHA, Gulberg, Johar Town, Model Town, Bahria Town, Wapda Town and Cantt. Pick your jacket, send your order on WhatsApp, and we'll confirm the size, address and delivery with you personally. Browse the full <a href="/bomber-jackets/">bomber jacket collection</a>, our <a href="/varsity-jackets/">varsity jackets</a> and the rest of our <a href="/jackets/">men's jackets in Lahore</a>, or read the <a href="/faq/">delivery and sizing FAQ</a>.</p>
       </div>
     </section>
 
@@ -373,7 +372,16 @@
         <p>&copy; 2026 Fakhir Outwears · Lahore, Pakistan</p>
       </div>
       <nav aria-label="Footer">
-        <a href="#shop">Shop</a>
+        <a href="/jackets/">Men's jackets</a>
+        <a href="/bomber-jackets/">Bomber jackets</a>
+        <a href="/varsity-jackets/">Varsity jackets</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/products/onyx-bomber/">Onyx Bomber</a>
+        <a href="/products/midnight-panel-bomber/">Midnight Varsity</a>
+        <a href="/products/copper-python-bomber/">Copper Python</a>
+        <a href="/products/navy-python-bomber/">Navy Python</a>
+        <a href="/products/cocoa-pinstripe-bomber/">Cocoa Pinstripe</a>
+        <a href="/products/monochrome-track-bomber/">Monochrome Track</a>
         <a data-whatsapp-link="" target="_blank" rel="noopener">WhatsApp: +92 323 4123244</a>
       </nav>
     </div>
@@ -394,7 +402,7 @@
     </div>
     <ul class="cart-items" id="cart-items"></ul>
     <div class="drawer-foot">
-      <div class="subtotal"><span>Subtotal</span><strong id="cart-subtotal">$0.00</strong></div>
+      <div class="subtotal"><span>Subtotal</span><strong id="cart-subtotal">Rs 0</strong></div>
       <button class="btn btn-whatsapp btn-block" id="checkout"><span data-whatsapp-icon></span>Order on WhatsApp</button>
       <p class="checkout-note">Opens WhatsApp with your order filled in. Just press send.</p>
     </div>

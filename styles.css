@@ -1802,3 +1802,11 @@ button {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ---------- SEO landing pages, FAQ and product details (added 2026-11-02) ---------- */
+.seo-section, .pdp-details { padding-block: 36px 48px; max-width: 860px; }
+.seo-section h1, .pdp-details h2 { line-height: 1.2; }
+.seo-section p, .pdp-details p { line-height: 1.65; }
+.seo-section .grid { margin-block: 20px 28px; }
+.faq-item { border-top: 1px solid var(--line); padding-block: 16px 4px; }
+.faq-item h2 { font-size: 20px; margin-bottom: 6px; }
