@@ -9,7 +9,7 @@ const PRODUCTS = [
     image: "images/products/onyx-bomber.webp",
     price: 3000,
     colors: [["Black", "#1d1f23"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "A clean, all-black faux-leather bomber with a soft ribbed collar, cuffs and hem. Finished with a tonal chest badge and contrast tape on the side pockets.",
   },
   {
@@ -20,7 +20,7 @@ const PRODUCTS = [
     image: "images/products/monochrome-track-bomber.webp",
     price: 3000,
     colors: [["Black / White", "#1d1f23"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "Smooth tricot track jacket with a bold white yoke across the chest and shoulders. Varsity-striped rib trims and slim side pockets keep it sporty.",
   },
   {
@@ -31,7 +31,7 @@ const PRODUCTS = [
     image: "images/products/midnight-panel-bomber.webp",
     price: 3000,
     colors: [["Black / White", "#1d1f23"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "Faux-leather bomber with a contrast white chest panel and black-and-white striped collar, cuffs and hem. A statement piece that pairs with plain tees and denim.",
   },
   {
@@ -42,7 +42,7 @@ const PRODUCTS = [
     image: "images/products/cocoa-pinstripe-bomber.webp",
     price: 3000,
     colors: [["Chocolate", "#4a2e22"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "Rich chocolate-brown bomber with a tonal pinstripe front, gold foil detail and a round star patch. Zip pockets and striped rib trims finish the look.",
   },
   {
@@ -53,7 +53,7 @@ const PRODUCTS = [
     image: "images/products/copper-python-bomber.webp",
     price: 3000,
     colors: [["Copper / Brown", "#c46a2c"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "Burnt-orange snake-pattern jacquard front with textured brown sleeves. Gold foil detail, a leather-look chest pocket and zip side pockets.",
   },
   {
@@ -64,7 +64,7 @@ const PRODUCTS = [
     image: "images/products/navy-python-bomber.webp",
     price: 3000,
     colors: [["Navy", "#1f2a44"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "Deep navy bomber with a subtle snake-pattern jacquard and embossed sleeves. Rubber chest badge, zip pockets and crisp white-striped rib trims.",
   },
   {
@@ -75,7 +75,7 @@ const PRODUCTS = [
     image: "images/products/ivory-fur-puffer.webp",
     price: 5000,
     colors: [["Ivory / Black", "#ece5d8"]],
-    sizes: ["M", "L"],
+    sizes: ["M", "L", "XL"],
     description: "Ivory quilted puffer bomber with a plush black faux-fur collar, full front zip and zip side pockets. Black ribbed cuffs and hem keep the classic bomber shape.",
   },
 ];
